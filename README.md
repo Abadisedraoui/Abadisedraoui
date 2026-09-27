@@ -31,7 +31,7 @@ Case studies on educational platforms, design systems, accessibility and product
 
 I designed and built the portfolio myself, using AI to help me implement, debug and iterate in code.
 
-**Job search automation**  
+**[Job search automation](https://github.com/Abadisedraoui/busqueda-trabajo)**  
 A small system I built to check selected company career pages, keep a daily history and generate a report for my job search.
 
 ---
