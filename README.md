@@ -39,13 +39,13 @@ A small system I built to check selected company career pages, keep a daily hist
 <div align="center">
 
 <pre>
- ██   ██
+ ██   ██ 
 ████ ████
 █████████
- ███████
-  █████
-   ███
-    █
+ ███████ 
+  █████  
+   ███   
+    █    
 </pre>
 
 </div>
